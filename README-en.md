@@ -76,6 +76,7 @@ For some reason，previous interfaces could not be used, it made the project fai
 # Demo
 
 [click it](http://cangdu.org/elm/)（Preview with chrome phone mode please）
+or [![Runme](https://stg.runme.io/static/button.svg)](https://stg.runme.io/run?app_id=74488333-0eaf-4a09-a2dc-ad67d35a6f65) 
 
 ### The mobile can scan the qr code in the below
 
