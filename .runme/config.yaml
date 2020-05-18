@@ -5,6 +5,7 @@ services:
     build:
       type: dockerfile
       config: ./.runme/Dockerfile
+    command: npm run dev
     ports:
-      - container: 80
+      - container: 8000
         public: 80
